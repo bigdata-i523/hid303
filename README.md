@@ -8,9 +8,9 @@
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 303
+    name: Brunetti Nademlynsky, Lisa
+    url: https://github.com/bigdata-i523/hid303
 ```
 
 # Paper 1
